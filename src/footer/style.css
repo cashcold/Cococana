@@ -1,0 +1,62 @@
+.footer{
+    padding: 100px 0;
+    background-color: black;
+    color: white;
+    width: 90%;
+}
+.link-icons a{
+    padding: 0 20px;
+}
+.link-icons img{
+    width: 50px;
+}
+.link-input input {
+    width: 500px;
+}
+.styleText{
+    color: darkorange;
+}
+.styleName{
+    color: red;
+}
+.Link-Up-msg-grup{
+    text-align: center;
+}
+.Link-Up-msg-grup{
+    display: flex;
+    justify-content: space-between;
+}
+.product-A{
+    width: 300px;
+}
+.textMe ul li{
+    list-style: none;
+}
+.textMe{
+    width: 400px;
+    color: red;
+}
+.Link-Up-msg-style{
+    display: flex;
+    justify-content: space-between;
+}
+.Link-Up-msg-style ul li{
+    list-style: none;
+}
+.footerMsg{
+    text-align: center;
+    padding-top: 100px;
+}
+.product-A{
+    color: gold;
+}
+.product-A h5{
+    color: white;
+}
+.product-A{
+    width: 300px;
+    border: 1px solid gold;
+}
+.textMe{
+    line-height: 2em;
+}

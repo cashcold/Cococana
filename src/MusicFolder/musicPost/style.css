@@ -1,0 +1,13 @@
+.musicPost{
+    width: 70%;
+}
+.song-img{
+    width: 100%;
+}
+.song-img img{
+    width: 100%;
+}
+.boxes{
+    display: grid;
+    grid-template-columns: repeat(1 , 1fr);
+}

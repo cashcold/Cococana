@@ -1,0 +1,16 @@
+.aboutImg img{
+    width: 1100px;
+    height: 400px;
+}
+.aboutText{
+    width: 900px;
+    margin-left: 200px;
+    line-height: 1.8em;
+    font-size: bolder ;
+}
+.aboutInfo{
+    text-align: center;
+}
+.about{
+    margin: 50px 0;
+}

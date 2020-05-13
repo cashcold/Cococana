@@ -1,0 +1,16 @@
+.musicSlibar{
+    width: 30%;
+    background-color: #fff;
+}
+.phone-img{
+    width: 100%;
+}
+.phone-img img{
+    width: 100%;
+    padding: 20px;
+    margin-left: -10px;
+}
+.checkOut{
+
+    text-align: center;
+}

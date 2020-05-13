@@ -1,0 +1,10 @@
+.imgstyle{
+    width: 100%;
+}
+.imgstyle img{
+    width: 400px;
+}
+.pictureList{
+    display: inline-block;
+    padding: 30px 10px;
+}

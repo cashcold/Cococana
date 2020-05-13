@@ -1,0 +1,8 @@
+.eventListBlog{
+    display: flex;
+    justify-content: space-between;
+}
+.event{
+    width: 90%;
+    margin: 50px 0;
+}

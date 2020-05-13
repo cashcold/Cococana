@@ -1,0 +1,9 @@
+.music{
+    width: 100%;
+    margin: 50px 50px;
+}
+.music .container{
+    margin-left: -14%;
+    display: flex;
+    justify-content: space-between;
+}

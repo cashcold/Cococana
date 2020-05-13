@@ -1,0 +1,10 @@
+.navbar ul{
+    display: grid;
+    grid-gap: 60px;
+    grid-template-columns: repeat(6, 1fr);
+    list-style: none;
+}
+.navbar a{
+    font-size: bold;
+    text-transform: uppercase;
+}

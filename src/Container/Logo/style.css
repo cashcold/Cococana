@@ -1,0 +1,11 @@
+.box img{
+    width: 1200px;
+    height: 250px;
+}
+.box{
+    width: 100%;
+    text-align: center;
+}
+.box img{
+    margin-left: -21%;
+}

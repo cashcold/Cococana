@@ -1,0 +1,19 @@
+.main-nav ul{
+    display: grid;
+    grid-gap: 20px;
+    justify-content: space-around;
+    padding: 0;
+    list-style: none;
+    grid-template-columns: repeat(5,1fr);
+}
+.main-nav a{
+    padding: 0 10px;
+}
+.main-nav{
+    text-align: center;
+}
+.nav{
+    margin: 20px 0;
+    text-align: center;
+    width: 100%
+}
